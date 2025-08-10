@@ -348,6 +348,6 @@ FTTHANALYZE - Analyze existing drawing
 - Improved maintenance planning
 
 ---
-Download Link : https://drive.google.com/drive/folders/1GREX-j1wfCWRKb2CCgtmoyQ4NoJS8ZuY?usp=sharing
+**📦DOWNLOAD LINK GOOGLE DRIVE📦** https://drive.google.com/drive/folders/1GREX-j1wfCWRKb2CCgtmoyQ4NoJS8ZuY?usp=sharing
 
 *Dokumen ini akan terus diupdate sesuai perkembangan project dan feedback dari user.* 
