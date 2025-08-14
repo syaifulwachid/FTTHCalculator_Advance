@@ -350,6 +350,6 @@ FTTHANALYZE - Analyze existing drawing
 ---
 
 ## 📦DOWNLOAD LINK📦**
-**GOOGLE DRIVE** https://drive.google.com/drive/folders/1GREX-j1wfCWRKb2CCgtmoyQ4NoJS8ZuY?usp=sharing
+**GOOGLE DRIVE** will update link soon.., still compile for new update
 
 *Dokumen ini akan terus diupdate sesuai perkembangan project dan feedback dari user.* 
